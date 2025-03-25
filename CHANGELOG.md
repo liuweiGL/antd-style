@@ -1,5 +1,35 @@
 # Changelog
 
+## [3.7.1](https://github.com/ant-design/antd-style/compare/v3.7.0...v3.7.1) (2024-10-22)
+
+### 🐛 Bug Fixes
+
+- Fix antd cssvar mode in SSR, closes [#172](https://github.com/ant-design/antd-style/issues/172) ([e79a0fd](https://github.com/ant-design/antd-style/commit/e79a0fd))
+
+## [3.7.1-beta.1](https://github.com/ant-design/antd-style/compare/v3.7.0...v3.7.1-beta.1) (2024-10-22)
+
+### 🐛 Bug Fixes
+
+- Fix cssvar ([ac642b7](https://github.com/ant-design/antd-style/commit/ac642b7))
+
+# [3.7.0](https://github.com/ant-design/antd-style/compare/v3.6.3...v3.7.0) (2024-09-28)
+
+### ✨ Features
+
+- Remove `@emotion/server` to adapt SSR in edge runtime, closes [#169](https://github.com/ant-design/antd-style/issues/169) ([3a6b86c](https://github.com/ant-design/antd-style/commit/3a6b86c))
+
+# [3.7.0-beta.1](https://github.com/ant-design/antd-style/compare/v3.6.3...v3.7.0-beta.1) (2024-09-27)
+
+### ✨ Features
+
+- Try to remove @emotion/server to suit SSR in edge runtime ([a7d0394](https://github.com/ant-design/antd-style/commit/a7d0394))
+
+## [3.6.3](https://github.com/ant-design/antd-style/compare/v3.6.2...v3.6.3) (2024-09-12)
+
+### 🐛 Bug Fixes
+
+- Export the CSSObject type from incorrect package, closes [#167](https://github.com/ant-design/antd-style/issues/167) ([85db0b3](https://github.com/ant-design/antd-style/commit/85db0b3))
+
 ## [3.6.2](https://github.com/ant-design/antd-style/compare/v3.6.1...v3.6.2) (2024-03-24)
 
 ### 🐛 Bug Fixes
